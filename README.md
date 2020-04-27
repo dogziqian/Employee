@@ -1,2 +1,5 @@
-# Employee
-CRUD-WEB project based on Bootstrap(UI)+SSM
+1、使用Maven进行依赖管理和项目管理
+2、前端页面使用Bootstrap搭建
+3、使用Mysql数据库存储员工信息和部门信息
+4、后端使用SSM架构
+5、实现了一个员工页面的增删改查（包括新增修改校验，删除，批量删除等）
